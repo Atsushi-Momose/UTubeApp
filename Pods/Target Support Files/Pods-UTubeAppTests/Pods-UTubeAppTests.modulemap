@@ -1,0 +1,6 @@
+framework module Pods_UTubeAppTests {
+  umbrella header "Pods-UTubeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
